@@ -1,0 +1,16 @@
+{
+  "singleQuote": false,
+  "arrowParens": "avoid",
+  "tabWidth": 4,
+  "semi": true,
+  "comments": "always",
+  "proseWrap": "always",
+  "overrides": [
+    {
+      "files": "*.html",
+      "options": {
+        "tabWidth": 2
+      }
+    }
+  ]
+}
