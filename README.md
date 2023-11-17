@@ -20,7 +20,7 @@ sort.
 - **Modal Window:** The app utilizes a model window for an enhanced user interface, providing a clean and intuitive way
   to interact with contact details.
 
-## Technology Stack:
+## Technology Used:
 
 - **React:** The app is built using React, a popular JavaScript library for building user interfaces.
 
