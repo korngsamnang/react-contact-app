@@ -33,8 +33,7 @@ sort.
 - **[Styled Components]:** Enabling a modular and maintainable CSS-in-JS
   approach.
 
-- **[React Icons]:** A collection of customizable SVG icons, enhancing visual
-  elements.
+- **[React Icons]:** A collection of customizable SVG icons.
 
 ## Installation:
 
