@@ -24,16 +24,16 @@ sort.
 
 ## Technology Used:
 
-- **[React]:** The app is built using React, a popular JavaScript library for building user interfaces.
+- **[React]:** A popular JavaScript library for building user interfaces.
 
-- **[json-server]:** The app employs json-server to handle the CRUD operations and simulate a backend server.
+- **[json-server]:** The app use json-server to handle the CRUD operations and simulate a backend server.
 
-- **[React Query]:** The application leverages React Query for efficient and performant data fetching.
+- **[React Query]:** For efficient and performant data fetching.
 
-- **[Styled Components]:** Styling is achieved using Styled Components, enabling a modular and maintainable CSS-in-JS
+- **[Styled Components]:** Enabling a modular and maintainable CSS-in-JS
   approach.
 
-- **[React Icons]:** The app integrates React Icons for a collection of customizable SVG icons, enhancing visual
+- **[React Icons]:** A collection of customizable SVG icons, enhancing visual
   elements.
 
 ## Installation:
